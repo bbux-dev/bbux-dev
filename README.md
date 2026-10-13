@@ -1,7 +1,5 @@
 - Hi, I’m Brian
-- I’m interested in synthetic data generation
-- I’m currently learning Golang by applying Ultralearning techniques
-- I’m looking to collaborate on datacraft, or at least get some beta users/developers to play with it.
+- https://bxtn.dev/
 - How to reach me bbux.dev@gmail.com
 
 <!---
